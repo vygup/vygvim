@@ -1,4 +1,4 @@
-# VygVim - сustom assembly NVIM for vygush
+# VygVim - сustom assembly NVIM for vygup
 
 ## Старт
 Для начала сделайте бэкап текущего конфига:
